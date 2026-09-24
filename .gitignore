@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+.vite/
+
+# Database
+*.sqlite
+*.db
+
+# Uploads
+backend/uploads/
+uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Misc
+.cache/
+temp/
+tmp/
+PROJECT-GUIDE.txt
