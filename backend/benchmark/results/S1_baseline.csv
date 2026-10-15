@@ -1,0 +1,7 @@
+timestamp,device_id,ip,probe_success,response_time_ms,consecutive_failures,status,status_changed,previous_status,alert_generated,probe_count
+2026-10-15T04:33:03.210378,S1,8.8.8.8,True,457.15,0,online,True,unknown,False,1
+2026-10-15T04:33:09.290699,S1,8.8.8.8,True,140.03,0,online,False,online,False,2
+2026-10-15T04:33:14.431225,S1,8.8.8.8,True,305.2,0,online,False,online,False,3
+2026-10-15T04:33:19.736827,S1,8.8.8.8,True,80.34,0,online,False,online,False,4
+2026-10-15T04:33:24.817459,S1,8.8.8.8,True,403.03,0,online,False,online,False,5
+2026-10-15T04:33:30.221090,S1,8.8.8.8,True,66.35,0,online,False,online,False,6

@@ -1,0 +1,2 @@
+timestamp,device_id,ip,probe_success,response_time_ms,consecutive_failures,consecutive_successes,status,status_changed,previous_status,alert_generated,alert_suppressed,probe_count,interval_used,next_interval
+2026-10-15T13:27:52.441173,S1,8.8.8.8,True,78.75,0,1,unknown,False,unknown,False,False,1,30,30
