@@ -1,0 +1,2 @@
+alert_generated,alert_suppressed,consecutive_failures,consecutive_successes,device_id,interval_used,ip,next_interval,previous_status,probe_count,probe_success,response_time_ms,status,status_changed,timestamp
+False,False,0,1,S5,30,8.8.8.8,30,unknown,1,True,75.64,unknown,False,2026-10-15T13:53:18.452662

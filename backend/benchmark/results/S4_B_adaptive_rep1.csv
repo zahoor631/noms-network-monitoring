@@ -1,0 +1,4 @@
+alert_generated,consecutive_failures,device_id,interval_used,ip,next_interval,previous_status,probe_count,probe_success,response_time_ms,status,status_changed,timestamp
+False,0,S4,30,8.8.8.8,5,unknown,1,True,142.88,online,True,2026-10-15T13:49:16.090167
+False,0,S4,5,8.8.8.8,10,online,2,True,64.56,online,False,2026-10-15T13:49:21.233880
+False,0,S4,10,8.8.8.8,15,online,3,True,88.71,online,False,2026-10-15T13:49:31.299000
